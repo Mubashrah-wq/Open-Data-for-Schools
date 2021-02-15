@@ -1,7 +1,7 @@
 # Open-Data-for-Schools
 Open science and as part of it, open data has the potential to bring transparency and scientific innovation. With the availability of openly accessible datasets, students could have the opportunity to work with real datasets e.g., about their city or neighborhood, and understand different facts and real-life problems at a local level. To facilitate teachers and students an open data interface developed using open source tools that provide direct access to educational datasets categorized under the educational domain: science, math, and geography.
 # Getstarted
-Download the source code in XAMPP htdocs under the new folder "project". You can download XAMPP from https://www.apachefriends.org/download.html. Start running the Apache and MySql on XAMMP. Use the follwing login details for wordpress login:
+Download the source code (master branch) in XAMPP htdocs under the new folder "project". You can download XAMPP from https://www.apachefriends.org/download.html. Start running the Apache and MySql on XAMMP. Use the follwing login details for wordpress login:
 
 User name: odwschool@gmail.com
 
