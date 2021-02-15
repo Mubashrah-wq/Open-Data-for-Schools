@@ -7,7 +7,7 @@ User name: odwschool@gmail.com
 
 Password: Odws_school2021.
 
-Upload the database file on localhost/phpmyadmin. Run the SQL query under your database. Open the config file, and check the follwoing:
+Upload the database file on localhost/phpmyadmin. Run the SQL query stated in file Sql_query.docx. Open the config file, and check the follwoing:
 
 /** MySQL database username */ define( 'DB_USER', 'root' );
 
