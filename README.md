@@ -1,6 +1,6 @@
 # Open-Data-for-Schools
-Open science and as part of it, open data has the potential to bring transparency and scientific innovation. With the availability of openly accessible datasets, students could have the opportunity to work with real datasets e.g., about their city or neighborhood, and understand different facts and real-life problems at a local level. To facilitate teachers and students an open data interface developed using open source tools that provide direct access to educational datasets categorized under the educational domain: science, math, and geography.
-# Getstarted
+Open science and as part of it, open data has the potential to bring transparency and scientific innovation. With the availability of openly accessible datasets, students could have the opportunity to work with real datasets e.g., about their city or neighborhood, and understand different facts and real-life problems at a local level.To facilitate teachers and students we developed an open data interface using open source tools that provide direct access to educational datasets categorized under the following educational domains: science, math, and geography.
+# Get Started
 Download the source code (master branch) in XAMPP htdocs under the new folder "project". You can download XAMPP from https://www.apachefriends.org/download.html. Start running the Apache and MySql on XAMMP. Use the follwing login details for wordpress login:
 
 User name: odwschool@gmail.com
@@ -22,4 +22,4 @@ define( 'WP_SITEURL', 'http://localhost/project');
 If you have a different folder name then use it instead of the project. Write the site URL http://localhost/project in your browser, you have your open data interface for schools.
 
 # Visulization
-We use Tableau for visualizing educational open data sets and you need a login credential to see visualization available on this interface. You can use any other visualization tool and just embedded the visualization code in the respective website pages.
+We use Tableau https://www.tableau.com/ for visualizing educational open data sets and you need a login credential to see visualization available on this interface. You can use any other visualization tool and just embedded the visualization code in the respective website pages.
