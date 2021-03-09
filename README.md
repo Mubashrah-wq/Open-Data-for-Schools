@@ -21,5 +21,5 @@ define( 'WP_SITEURL', 'http://localhost/project');
 
 If you have a different folder name then use it instead of the project. Write the site URL http://localhost/project in your browser, you have your open data interface for schools.
 
-# Visulization
+# Visualization
 We use Tableau https://www.tableau.com/ for visualizing educational open data sets and you need a login credential to see visualization available on this interface. You can use any other visualization tool and just embedded the visualization code in the respective website pages.
